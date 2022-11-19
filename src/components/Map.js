@@ -1,5 +1,6 @@
-import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useEffect} from 'react';
 import mapboxgl from '!mapbox-gl'; // eslint-disable-line import/no-webpack-loader-syntax
+import Form from './Form'; 
 
 mapboxgl.accessToken = "pk.eyJ1IjoibXVycmhhIiwiYSI6ImNsYWxkMmQzZzAzemszcW5ta2NuOWh0c3MifQ.Pe-hp0L3KUE0fmHV-xgRWg";
 
@@ -19,9 +20,11 @@ const Map = () => {
   });
 
   return (
-    <div className="map">
+    <div >
+      <Form/>
       <div ref={mapContainer} className="map-container" />
     </div>
+    
     
   )
 }
