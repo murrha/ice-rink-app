@@ -9,9 +9,10 @@ function App() {
       <Header/>
         <Map/>
         <Form/>
-      
     </div>
+      
+    
   );
 }
 
-export default App;
+export default App
