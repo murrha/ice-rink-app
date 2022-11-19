@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0; 
+}
+
+.header{
+    background-color: #9AD3DE;
+}
+
+h1{
+    padding: 10px; 
+    padding-left: 30px;
+    color: #fff; 
+    font-family: 'Secret Winter', sans-serif;
+}
