@@ -1,15 +1,15 @@
 <h1>Ice Rink App</h1>
-<hr><p>A web application that will show the ice rinks around the user's location. The user will also be able to filter the results to see which ice rinks are indoor or outdoor.</p>
-<p>Due to the time constraints, the results will be focused around Los Angeles and Orange County.</p><h2>General Information</h2>
+<hr><p>A web application that will show the ice rinks around Los Angeles and Orange County and will filter out which places are indoor or outdoor.</p>
+<h2>General Information</h2>
 <hr><ul>
 <li>A winter-themed project for MLH's Hackcoming 2</li>
 </ul><ul>
-<li>Shows the user available ice rinks and allows the user to filter results of whether they are indoor or outdoor</li>
+<li>MVP would be the display of the map as well as markers of the ice areas within the counties</li>
 </ul><ul>
 <li>First hackathon project, testing out technologies I've never used before, building up my front-end skills, and challenging myself</li>
 </ul><h2>Technologies Used</h2>
 <hr><ul>
-<li>React</li>
+<li>React 18.2.0</li>
 </ul><h2>Features</h2>
 <hr><ul>
 <li>MapBox GL API</li>
