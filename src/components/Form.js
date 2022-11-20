@@ -6,6 +6,9 @@ function Form(){
         <div className="form">
             <h2>Choose type of ice rink </h2>
             <div className="form-options">
+                <input type="radio" value="all" name="location"/>
+                <label for="All">All</label>
+                <br></br>
                 <input type="radio" value="indoor" name="location"/>
                 <label for="Indoor">Indoor</label>
                 <br></br>
