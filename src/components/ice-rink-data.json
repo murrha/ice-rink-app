@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.228792,
+          -118.450158
+        ]
+      },
+      "properties": {
+        "title": "LA Kings Ice at Pickwick Gardens",
+        "description": "Our NHL size state of the art arena is the place for you and your family to enjoy hours on the ice.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1815794,
+          -118.4448402
+        ]
+      },
+      "properties": {
+        "title": "Iceland Ice Skating Center",
+        "description": "We offer many activities from skating classes to even hosting you birthday party here with us.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.2286395,
+          -118.4501366
+        ]
+      },
+      "properties": {
+        "title": "LA Kings Valley Ice Center",
+        "description": "We have tons of activities for all ages! We offer Ice Hockey, Public Sessions, Skating School, Stick Times, Figure Skating and much more! We're located in the heart of the San Fernando Valley in Panorma City, CA.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0180842,
+          -118.4953985
+        ]
+      },
+      "properties": {
+        "title": "Ice at Santa Monica",
+        "description": "Ice at Santa Monica is back! Join us as we transform the corner of Fifth Street and Arizona Avenue into a winter wonderland.",
+        "location": "outdoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.1436537,
+          -118.1452085
+        ]
+      },
+      "properties": {
+        "title": "Pasadena Ice Skating Center",
+        "description": "We continue to provide year-round recreational skating activities for skaters of all ages and ability levels. We have daily public sessions and learn-to-skate group classes for both hockey and figure skating throughout the year. ",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8729034,
+          -118.090025
+        ]
+      },
+      "properties": {
+        "title": "East West Ice Palace",
+        "description": "Everybody loves to ice skate. We have lots of public skating sessions every week.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Toyota Sports Performance Center",
+        "description": "The Toyota Sports Center is a practice facility for the Los Angeles Kings, and the Ontario Reign, located on 555 North Nash Street in El Segundo, California.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "LA Kings Iceland in Paramount",
+        "description": "Olympian Peggy Fleming once practiced at this veteran ice rink, which offers lessons for all levels.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Rinks - Lakewood ICE",
+        "description": "Guests of all ages enjoy skating at Lakewood ICE during our daily public ice skating sessions on our newly remodeled ice surface. ",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Cube Santa Clarita",
+        "description": "Ice rink offering public skating, lessons & hockey training, plus a restaurant & a pro shop.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Skating Edge Ice Arena",
+        "description": "Enclosed ice arena with public skate times & lessons, hockey leagues, broomball & a snack bar.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Rinks Anaheim ICE",
+        "description": "Center for public ice skating, skating competitions, minor league hockey games & classes.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Iceoplex",
+        "description": "We are the highly successful training center for our various hockey organizations (Mariners Youth Hockey, LA Kings High School League, CSUN and Cal Lutheran college hockey).",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Rinks - KHS ICE",
+        "description": "Ice skating rink offering special events, birthday party rental & assorted classes.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Rinks - Westminster ICE",
+        "description": "Indoor ice-skating rink, offering parties, instruction, camps & hockey leagues for adults & kids.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "LA Kings Ice",
+        "description": "LA Kings Ice at Promenade on the Peninsula is a LiveBarn Venue.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Center Ice Skating Arena",
+        "description": "Welcome to the Ontario Center Ice Arena, the premier family ice sports complex in the Inland Empire.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Ontario Ice Skating Arena Skating School",
+        "description": "Large ice rink built in 1957, offering open skate times, hockey & skating lessons & party packages.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Crystal Ice Skating",
+        "description": "Crystal Ice Skating provides recreational fun as well as numerous theatrical possibilities year-round!",
+        "location": "outdoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "LA Kings Holiday Ice at L.A. LIVE",
+        "description": "The annual LA Kings Holiday Ice presented by Coca-Cola opens November 26, 2022 - January 8, 2023 at L.A. LIVE!",
+        "location": "outdoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Holiday Ice Rink",
+        "description": "Opens November 23",
+        "location": "outdoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "The Rinks Yorba Linda Ice",
+        "description": "This indoor ice rink hosts hockey at all levels, plus figure skating & public ice times.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Great Park Ice & Fivepoint Arena",
+        "description": "Great Park Ice & FivePoint Arena is a world-class facility dedicated to the growth and advancement of ice hockey and ice skating in the United States.",
+        "location": "indoor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+
+        ]
+      },
+      "properties": {
+        "title": "Lake Forest Ice Palace",
+        "description": "We are a Training Center for dedicated Figure Skaters and Hockey Players.",
+        "location": "indoor"
+      }
+    }
+  ]
+}

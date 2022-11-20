@@ -1,13 +1,22 @@
 .form{
+    font-family: 'Oswald', sans-serif;
     position: absolute;
     background-color: #fff;
     padding: 20px;
     margin: 20px;
     max-width: 500px;
     max-height: 200px; 
-    border: solid 5px #718EBB;
     z-index: 1; 
     border-radius: 15px;
+}
+
+.form h2{
+    background-color: #718EBB;
+    color: #fff; 
+    margin: 0;
+    padding: 10px; 
+    border-radius: 15px; 
+    text-align: center;
 }
 
 .form-options input{
