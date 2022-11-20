@@ -17,12 +17,16 @@ const Map = () => {
       center: [-118.289399, 34.251379],
       zoom: 10
     });
+    
   });
 
+  
+ 
   return (
     <div >
       <Form/>
       <div ref={mapContainer} className="map-container" />
+      
     </div>
     
     

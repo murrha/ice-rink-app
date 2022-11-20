@@ -4,7 +4,7 @@ import './Header.css';
 function Header(){
     return (
         <div className="header">
-            <h1>Ice Rink</h1>
+            <h1>Ice Rink Finder</h1>
         </div>
     )
 }
